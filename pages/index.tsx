@@ -76,7 +76,10 @@ const HomePage: React.FC = () => {
   ];
 
   return (
-    <Layout title="VoiceAI - Revolutionary Voice AI Solutions for Logistics & Transportation">
+    <Layout 
+      title="VoiceAI - Revolutionary Voice AI Solutions for Logistics & Transportation"
+      description="Transform your logistics operations with VoiceAI. Automate customer service, streamline dispatch operations, and reduce costs by 60% with our advanced Voice AI platform designed for freight, warehousing, and transportation companies."
+    >
       {/* Hero Section */}
       <section className="relative py-20 lg:py-32 overflow-hidden">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
