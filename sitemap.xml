@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://www.voiceaitrucking.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url><loc>https://www.voiceaitrucking.com/pricing</loc></url>
+  <url><loc>https://www.voiceaitrucking.com/demo</loc></url>
+
+  <!-- SOLUTIONS -->
+  <url><loc>https://www.voiceaitrucking.com/solutions/dispatch-automation</loc></url>
+  <url><loc>https://www.voiceaitrucking.com/solutions/driver-communications</loc></url>
+  <url><loc>https://www.voiceaitrucking.com/solutions/freight-broker-ops</loc></url>
+  <url><loc>https://www.voiceaitrucking.com/solutions/pod-bol-automation</loc></url>
+  <url><loc>https://www.voiceaitrucking.com/solutions/logistics-ops</loc></url>
+
+  <!-- FEATURES -->
+  <url><loc>https://www.voiceaitrucking.com/features/batch-dialing</loc></url>
+  <url><loc>https://www.voiceaitrucking.com/features/smart-ivr</loc></url>
+  <url><loc>https://www.voiceaitrucking.com/features/call-routing-queues</loc></url>
+  <url><loc>https://www.voiceaitrucking.com/features/local-presence</loc></url>
+  <url><loc>https://www.voiceaitrucking.com/features/ai-voicemail</loc></url>
+  <url><loc>https://www.voiceaitrucking.com/features/transcription-recording</loc></url>
+  <url><loc>https://www.voiceaitrucking.com/features/qa-analytics</loc></url>
+  <url><loc>https://www.voiceaitrucking.com/features/agent-assist</loc></url>
+
+  <!-- INDUSTRIES -->
+  <url><loc>https://www.voiceaitrucking.com/industries/trucking</loc></url>
+  <url><loc>https://www.voiceaitrucking.com/industries/freight-brokerage</loc></url>
+  <url><loc>https://www.voiceaitrucking.com/industries/3pl-logistics</loc></url>
+  <url><loc>https://www.voiceaitrucking.com/industries/ports-intermodal</loc></url>
+
+  <!-- INTEGRATIONS -->
+  <url><loc>https://www.voiceaitrucking.com/integrations/telematics</loc></url>
+  <url><loc>https://www.voiceaitrucking.com/integrations/tms</loc></url>
+  <url><loc>https://www.voiceaitrucking.com/integrations/carrier-ops</loc></url>
+
+  <!-- COMPLIANCE -->
+  <url><loc>https://www.voiceaitrucking.com/compliance/fmcsa-eld-ifta-call-recording</loc></url>
+
+  <!-- RESOURCES -->
+  <url><loc>https://www.voiceaitrucking.com/resources/blog/example</loc></url>
+  <url><loc>https://www.voiceaitrucking.com/resources/guides/example</loc></url>
+  <url><loc>https://www.voiceaitrucking.com/resources/case-studies/example</loc></url>
+  <url><loc>https://www.voiceaitrucking.com/resources/faq</loc></url>
+
+  <!-- COMPANY -->
+  <url><loc>https://www.voiceaitrucking.com/about</loc></url>
+  <url><loc>https://www.voiceaitrucking.com/contact</loc></url>
+  <url><loc>https://www.voiceaitrucking.com/careers</loc></url>
+
+  <!-- LEGAL -->
+  <url><loc>https://www.voiceaitrucking.com/legal/privacy</loc></url>
+  <url><loc>https://www.voiceaitrucking.com/legal/terms</loc></url>
+
+  <!-- OTHER -->
+  <url><loc>https://www.voiceaitrucking.com/status</loc></url>
+  <url><loc>https://www.voiceaitrucking.com/docs/example</loc></url>
+
+</urlset>
