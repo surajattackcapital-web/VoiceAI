@@ -8,6 +8,7 @@ yarn-error.log*
 .next/
 out/
 build/
+dist/
 
 # Environment variables
 .env
@@ -84,10 +85,6 @@ jspm_packages/
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
-# Temporary folders
-tmp/
-temp/
-
 # Python
 __pycache__/
 *.py[cod]
@@ -100,6 +97,6 @@ ENV/
 env.bak/
 venv.bak/
 
-# Scraped data (optional - remove if you want to include)
-parallel-scraper/scraped-websites/
-parallel-scraper/__pycache__/
+# System files
+AppData/
+*.msi

@@ -1,12 +1,12 @@
 import React from 'react';
 import Layout from '../components/Layout';
 import { motion } from 'framer-motion';
-import { Handshake, Users, Award, ArrowRight, CheckCircle, Star, Globe, Zap } from 'lucide-react';
+import { Hand, Users, Award, ArrowRight, CheckCircle, Star, Globe, Zap } from 'lucide-react';
 
 const PartnersPage: React.FC = () => {
   const partnerTypes = [
     {
-      icon: <Handshake className="w-6 h-6" />,
+      icon: <Hand className="w-6 h-6" />,
       title: 'Technology Partners',
       description: 'Integrate with leading logistics and communication platforms',
       benefits: ['API Access', 'Technical Support', 'Co-marketing Opportunities']
