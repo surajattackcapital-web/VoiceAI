@@ -1,7 +1,7 @@
 import React from 'react';
 import Layout from '../../../components/Layout';
 import { motion } from 'framer-motion';
-import { ArrowLeft, Calendar, Clock, User, Share2, CheckCircle, TrendingUp, Settings, Database, Globe } from 'lucide-react';
+import { ArrowLeft, Calendar, Clock, User, Share2, CheckCircle, TrendingUp, Settings, Database, Globe, XCircle } from 'lucide-react';
 import Link from 'next/link';
 
 const IntegrationCapabilitiesAnalysis: React.FC = () => {
